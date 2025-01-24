@@ -1,0 +1,21 @@
+header{
+    background-color:  #132043;
+    color : wheat;
+    text-align: right;
+
+}
+
+footer {
+    background-color:   #132043;
+
+}
+
+.logo{
+    height: 20%;
+    width: 20%;
+}
+.secciones{
+    display: inline;
+    padding-left:3px;
+    padding-right:3px;
+}
